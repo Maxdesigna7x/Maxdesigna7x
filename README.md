@@ -77,8 +77,8 @@ A lo largo de los años, he desarrollado proyectos de visualización arquitectó
     <td width="50%"><img src="15_compress.webp" width="100%"></td>
   </tr>
   <tr>
-    <td width="50%"><img src="18.webp" width="100%"></td>
-    <td width="50%"><img src="19.webp" width="100%"></td>
+    <td width="50%"><img src="18_compress.webp" width="100%"></td>
+    <td width="50%"><img src="19_compress.webp" width="100%"></td>
   </tr>
 </table>
 
