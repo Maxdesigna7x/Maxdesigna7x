@@ -87,6 +87,7 @@ A lo largo de los años, he desarrollado proyectos de visualización arquitectó
 ## 📬 Conectemos
 - 📧 [maxdesigna7x@gmail.com](mailto:maxdesigna7x@gmail.com)
 - 💼 [Mi Portafolio Completo](https://maxdesigna7x.github.io/Portfolio_Randy/)
+- 💼 [Mi CV](https://maxdesigna7x.github.io/Randy_CV.github.io/) 
 - 📍 Cuernavaca, Morelos, México
 
 ---
